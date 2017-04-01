@@ -1,0 +1,29 @@
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.csprojResolveAssemblyReference.cache
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.dll
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartLibrary\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.csprojResolveAssemblyReference.cache
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.dll
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartLibrary\obj\Debug\SimkapSmartLibrary.pdb

@@ -1,0 +1,527 @@
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+H:\xxxx\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROJECT\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+D:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache
+F:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+F:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+F:\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe.config
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.exe
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.exe
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartServer.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\bin\Debug\SimkapSmartLibrary.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csprojResolveAssemblyReference.cache
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.Properties.Resources.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.administrator.crud.FrmKelolaAdmin.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.atasan.penilai.crud.FrmKelolaAtasanPenilai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAdministartor.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmAtasanPenilai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmJenisKegiatan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmKegiatanPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLogin.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmLoginPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmMenu.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPejabatPenilai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmPerformanceCPU.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmSettingServer.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmTentangSimkap.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.FrmUnitKerja.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.jenis.kegiatan.crud.FrmKelolaJenisKegiatan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.crud.FrmKelolaKegiatan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.kegiatan.pegawai.crud.FrmKelolaKegiatanPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.login.pegawai.crud.FrmKelolaLoginPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.pegawai.crud.FrmKelolaPegawai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.penilai.crud.FrmKelolaPenilai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.simkap.smart.server.view.unit.kerja.crud.FrmKelolaUnitKerja.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartServer\SimkapSmartServer\obj\Debug\SimkapSmartServer.csproj.GenerateResource.Cache

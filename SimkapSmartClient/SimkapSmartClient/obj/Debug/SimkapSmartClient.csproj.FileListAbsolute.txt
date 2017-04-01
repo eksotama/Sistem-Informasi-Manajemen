@@ -1,0 +1,1073 @@
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmGantiKataSandi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLaporan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.laporan.skp.input.FrmInputCoverSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.menu.FrmMenuLaporanSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.print.cover.FrmCvrKepala.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.laporan.skp.print.print.cover.FrmCvrStaff.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInformationSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInputSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSasaranKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmUkurSasaranKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmInputRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.laporan.skp.input.FrmInputCoverSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.menu.FrmMenuLaporanSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInformationSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInputSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\SERVER SIMKAP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\PROJECT\Sistem Informasi Manajemen Kegiatan Pegawai\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmRealisasi.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCapaianKinerjaHarian.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSasaranKerja.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmUkurSasaranKerja.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmInputRealisasi.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.laporan.skp.input.FrmInputCoverSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.menu.FrmMenuLaporanSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintCover.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmChoosePeriode.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInformationSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInputSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+F:\DON'T BE REMOVED !!!\Program\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSasaranKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmUkurSasaranKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmInputRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInformationSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmInputSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmInputPrilakukerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.sasaran.kerja.sasaran.kerja.menu.FrmInputReportSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmInputReportCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmMenuCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDataPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDepan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmMenuPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmMenuPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmInputReportLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAkhir.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAwal.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmInputReportCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmMenuCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDataPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDepan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmInputReportLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAkhir.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAwal.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmMenuPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmMenuPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.sasaran.kerja.sasaran.kerja.menu.FrmInputReportSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\ORIGINAL\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmInputReportCover.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmMenuCover.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDataPegawai.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDepan.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmInputReportLampiran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmMenuLampiran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAkhir.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAwal.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerjaMutasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmMenuPrestasiKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaBiasa.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaMutasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuMutasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmMenuPrilakuKerja.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaBiasa.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaMutasi.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.sasaran.kerja.sasaran.kerja.menu.FrmInputReportSKP.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+H:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.FrmInputReportLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.capaian.kinerja.harian.capaian.kinerja.harian.print.FrmPrintLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmInputReportCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.menu.FrmMenuCover.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDataPegawai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.cover.cover.print.FrmPrintCoverDepan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmInputReportLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAkhir.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.lampiran.lampiran.print.FrmPrintLampiranAwal.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmInputReportPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.menu.FrmMenuPrestasiKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prestasi.kerja.prestasi.kerja.print.FrmPrintPrestasiKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmInputReportPrilakuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.menu.FrmMenuPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaBiasa.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.prilaku.kerja.prilaku.kerja.print.FrmPrintPrilakuKerjaMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.sasaran.kerja.sasaran.kerja.menu.FrmInputReportSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.laporan.skp.skp.print.FrmPrintWorksheet.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.menu.FrmInputReportUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.ukur.sasaran.ukur.sasaran.print.FrmPrintUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\SimkapSmartClient\SimkapSmartClient\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA\DAPPER\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\UJI COBA SUKSES\BACKUP\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+F:\RIZAL NITIP\TA FOR YUDISIUM\PROGRAM\UPDATE\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+H:\xxxx\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROGRAMMING VISUAL DEKSTOP\Bahasa C\Program\S I M K A P\UPDATE\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROJECT\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROJECT\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+D:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+F:\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe.config
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.exe
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.exe
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartClient.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Shared.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.TreeGX.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\FlashControlV71.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\ShockwaveFlashObjects.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\stdole.dll
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\bin\Debug\SimkapSmartLibrary.pdb
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csprojResolveAssemblyReference.cache
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.Properties.Resources.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmChangePassword.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuKelola.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmReport.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmLogin.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmMenuClient.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmSettingIpAddress.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmCreateCapaianKinerjaHarian.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.capaian.kinerja.harian.FrmUpdateLCKH.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePenilai.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.get.all.FrmChoosePeriodeKegiatan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmDataPrilakuKerja.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmUpdatePrilakuKerja.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.kelola.prilaku.kerja.FrmWorksheetPrilakuKerja.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.realisasi.FrmDataRealisasi.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.penilaian.realisasi.FrmViewRealisasi.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmDataUkurSasaran.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.kelola.ukur.sasaran.FrmWorksheetUkurSasaran.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriode.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.input.FrmChoosePeriodeMutasi.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuCoverLaporan.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuLampiran.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.menu.FrmMenuMutasi.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.report.report.preview.FrmPrintPreview.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.view.lckh.kelola.FrmViewDataCapaianKinerjaHarian.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.FrmCreateTarget.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmUpdateSKP.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.simkap.smart.client.view.skp.kelola.FrmViewDataSKP.resources
+F:\Kuliah\PROJECT FIX TA\SimkapSmartClient\SimkapSmartClient\obj\Debug\SimkapSmartClient.csproj.GenerateResource.Cache
